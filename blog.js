@@ -147,7 +147,7 @@ function firstBlogContent() {
                       eligendi debitis?
                     </p>
                     <div style="text-align: right">
-                      <span style="font-size: 13px; color: grey">${getDistanceTime(blogs[i].postedAt)}</span>
+                      <span style="font-size: 13px; color: grey">1 Hours ago</span>
                     </div>
                   </div>
                 </div>`;
